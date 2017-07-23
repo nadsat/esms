@@ -21,7 +21,7 @@ getting as a result:
 ```
 
 ```erlang
-esms:encode("This is an example",[{smsc,"1234"},{number,"5678"},{alphabet,"biniary"}]).
+esms:encode("This is an example",[{smsc,"1234"},{number,"5678"},{alphabet,"binary"}]).
 ```
 
 ```
